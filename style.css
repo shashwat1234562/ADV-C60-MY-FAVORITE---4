@@ -1,0 +1,52 @@
+body{
+    text-align:center;
+}
+h1{
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: 300;
+}
+#games{
+    width: 100%;
+    height: 800px;
+    background-color: beige;
+
+}
+#games1{
+    width: 100%;
+    height: 800px;
+    background-color:antiquewhite;
+
+}
+#games2{
+    width: 100%;
+    height: 800px;
+    background-color:chartreuse;
+
+}
+#games3{
+    width: 100%;
+    height: 800px;
+    background-color:darkcyan;
+
+}
+#games4{
+    width: 100%;
+    height: 800px;
+    background-color:firebrick;
+
+}
+img{
+    transition: transform .2s;
+
+}
+img:hover{
+    transform: scale(0.9);
+}
+.line{
+    height:10px;
+    background-color: aquamarine;
+    width:70px;
+    margin:8px auto;
+    
+}
